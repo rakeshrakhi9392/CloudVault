@@ -100,7 +100,3 @@ CloudVault/
         ├── users/         # auth & profiles
         └── django_web_app/
 ```
-
-## License
-
-See [LICENSE](LICENSE) for details.
